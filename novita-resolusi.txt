@@ -1,6 +1,6 @@
 Resolusi Novita:
 - Konsisten belajar untuk full stack
-- Lancar skripsi
 - Sedikit menyentuh data science
 - Konsisten berdana 10 ribu lewat kitabisa.com
 - Belajar design
+- Membuat website
