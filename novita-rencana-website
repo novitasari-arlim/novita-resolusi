@@ -1,6 +1,11 @@
 Rencana website:
 - Membuat sebuah design web:
   * design blog yang ramah pengguna
+    $ UI/UX
   * bisa terima request
+    $ request cover
+    $ request fanfict
 - Membuat halaman login
-  *tingkatan admin
+  *tingkatan admin:
+   $ berdasarkan jabatan/posisi
+  * Database
