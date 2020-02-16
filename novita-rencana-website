@@ -1,6 +1,8 @@
 Rencana website:
 - Membuat sebuah design web:
   * design blog yang ramah pengguna
+    $ sesuai usia
   * bisa terima request
+    $ request cover
 - Membuat halaman login
-  *tingkatan admin
+  *hak akses
